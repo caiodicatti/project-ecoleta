@@ -1,6 +1,6 @@
 ## Projeto Ecoleta
 
-Aplicação desenvolida durante o Next Level Week da **Rocketseat**
+Aplicação desenvolvida durante o Next Level Week da **Rocketseat**
 
 Foi utilizado neste projeto:
 - Node.Js
